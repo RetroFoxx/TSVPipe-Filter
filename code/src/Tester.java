@@ -1,5 +1,5 @@
 /**
- * @author: Brian Yen, bfy2101
+ * @author: retrofoxx
  * Tester is a class for running tests for part1, part2 and part3 of the programming section.
  */
 

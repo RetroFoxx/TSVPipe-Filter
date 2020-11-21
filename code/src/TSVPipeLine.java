@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 /**
- * @author: Brian Yen, bfy2101
+ * @author: retrofoxx
  * TSVPipeline class is for representing the pipeline which executes operations based on
  * TSVFilter. if a file exists and has acceptable formatting, then a record object
  * is created and is processed based on TSVFilter.

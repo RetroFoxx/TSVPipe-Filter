@@ -1,7 +1,7 @@
 import java.lang.Math;
 
 /**
- * @author: Brian Yen, bfy2101
+ * @author: retrofoxx
  * Statistics class is for running calculations for terminal operations. For each passing record,
  * store min or max value of records that have been streamed.
  *

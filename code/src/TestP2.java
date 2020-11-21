@@ -1,5 +1,5 @@
 /**
- * @author: Brian Yen, bfy2101
+ * @author: retrofoxx
  * TestP2 is a class for running different tests for part 2 of programming section. Test
  * select on different string and two main primitive types. Also test for null select object.
  */

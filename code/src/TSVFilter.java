@@ -1,5 +1,5 @@
 /**
- * @author: Brian Yen, bfy2101
+ * @author: retrofoxx
  * TSVFilter is a class to represent the Builder pattern filter..
  *
  */

@@ -1,5 +1,5 @@
 /**
- * @author: Brian Yen, bfy2101
+ * @author: retrofoxx
  * TestP1 is a class for running different tests for part 1 of programming section. Test for
  * a file with bad header, field, values and a test for a good file.
  */

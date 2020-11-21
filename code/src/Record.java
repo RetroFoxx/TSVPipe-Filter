@@ -1,5 +1,5 @@
 /**
- * @author: Brian Yen, bfy2101
+ * @author: retrofoxx
  * Record class is a data structure to hold format and values for each record being
  * streamed.
  *

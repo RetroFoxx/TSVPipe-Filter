@@ -1,5 +1,5 @@
 /**
- * @author: Brian Yen, bfy2101
+ * @author: retrofoxx
  * TestP3 is a class for running different tests for part 3 of programming section.
  * Test terminate max and min on numbers and strings, terminate with select,
  * terminate without select, and null object.
